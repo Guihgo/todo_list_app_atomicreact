@@ -1,0 +1,23 @@
+{
+  "name": "todo_list_app_atomicreact",
+  "version": "1.0.0",
+  "description": "a simple todo list app with atomicreact",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "atomicreact": "^1.1.2",
+    "express": "^4.16.4"
+  },
+  "scripts": {
+    "atomic": "Atomic run",
+    "webserver": "node app"
+  },
+  "keywords": [
+    "atomicreact",
+    "todo",
+    "list",
+    "app"
+  ],
+  "author": "Guihgo",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+[data-atomic-key="Item"] {
+  margin-top: 10px;
+}
+[data-atomic-key="Item"]>[data-atomic-sub="name"] {
+  font-size: 1.5em;
+  padding-left: 10px;
+}
+[data-atomic-key="Item"]>[data-atomic-sub="name"].done {
+  text-decoration: line-through;
+}
+[data-atomic-key="Item"]>[data-atomic-sub="btnRemove"] {
+  float: right;
+}
