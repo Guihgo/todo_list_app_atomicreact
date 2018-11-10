@@ -12,7 +12,7 @@
 npm install
 ```
 
-* 3 - install AtomicReact CLI
+* 3 - install [AtomicReact CLI](https://guihgo.github.io/AtomicReact/#/AtomicCLI)
 
 ```
 npm install atomicreact -g
