@@ -1,11 +1,11 @@
 {
   "name": "todo_list_app_atomicreact",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a simple todo list app with atomicreact",
   "main": "app.js",
   "dependencies": {},
   "devDependencies": {
-    "atomicreact": "^1.1.2",
+    "atomicreact": "^1.1.5",
     "express": "^4.16.4"
   },
   "scripts": {
